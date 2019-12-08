@@ -29,7 +29,7 @@ config()
   clear
 }
 
-config
+#config
 
 printf "$cyan$ git pull $reset\n"
 sleep 2 & sp
